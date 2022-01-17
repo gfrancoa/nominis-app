@@ -1,0 +1,44 @@
+.logo{
+    width: 6rem;
+}
+
+.lives-container{
+    display:flex;
+    width:20%;
+    flex-direction: row;
+    align-items: center;
+   
+}
+
+.heart{
+    width: 1.2rem;
+    padding:0.1rem;
+    display: flex;
+    align-self: center;
+}
+
+.avatar{
+    width: 3rem;
+    border-radius: 0.5rem;
+    -webkit-filter: drop-shadow(2px 2px 2px #888888);
+    filter: drop-shadow(2px 2px 2px #888888);
+}
+
+.title-red{
+    font-size: 1.5rem;
+    margin-bottom:0rem;
+}
+
+.subtitle-red{
+    font-size: 1.3rem;
+    line-height: 0;
+}
+
+.word{
+    font-size: 1.3rem;
+    line-height: 0;
+    margin-right:0.5rem;
+}
+
+
+
